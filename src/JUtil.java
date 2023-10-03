@@ -20,4 +20,4 @@
 
 	public static void pause () throws Exception {
 	String a = readString ();}}
-
+ tests
